@@ -1,0 +1,3 @@
+﻿  CppTest.cpp
+d:\2학년\게임기능대회\cpptest\cpptest\cpptest.cpp(10): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  CppTest.vcxproj -> D:\2학년\게임기능대회\CppTest\Debug\CppTest.exe
